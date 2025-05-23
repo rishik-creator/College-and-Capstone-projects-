@@ -1,0 +1,65 @@
+{"coord":{"lon":72.8479,"lat":19.0144},"weather":[{"id":800,"main":"Clear","description":"clear sky","icon":"01d"}],"base":"stations","main":{"temp":27.94,"feels_like":30.05,"temp_min":27.94,"temp_max":27.94,"pressure":1007,"humidity":66,"sea_level":1007,"grnd_level":1006},"visibility":10000,"wind":{"speed":8.45,"deg":303,"gust":11.03},"clouds":{"all":0},"dt":1741519917,"sys":{"country":"IN","sunrise":1741483320,"sunset":1741526196},"timezone":19800,"id":1275339,"name":"Mumbai","cod":200}City: Mumbai
+Temperature: 34.99°C
+Humidity: 24%
+Weather: smoke
+-----------------------------------
+City: Delhi
+Temperature: 30.05°C
+Humidity: 30%
+Weather: haze
+-----------------------------------
+City: Mumbai
+Temperature: 34.99°C
+Humidity: 24%
+Weather: smoke
+-----------------------------------
+City: Mumbai
+Temperature: 34.99°C
+Humidity: 24%
+Weather: smoke
+-----------------------------------
+City: AmrÄvati
+Temperature: 35.72°C
+Humidity: 12%
+Weather: clear sky
+-----------------------------------
+City: MahÄbaleshwar
+Temperature: 33.38°C
+Humidity: 16%
+Weather: clear sky
+-----------------------------------
+City: Faridabad
+Temperature: 29.14°C
+Humidity: 13%
+Weather: overcast clouds
+-----------------------------------
+City: Mumbai
+Temperature: 34.99°C
+Humidity: 24%
+Weather: smoke
+-----------------------------------
+City: Mumbai
+Temperature: 33.99°C
+Humidity: 26%
+Weather: smoke
+-----------------------------------
+City: Mumbai
+Temperature: 33.99°C
+Humidity: 26%
+Weather: smoke
+-----------------------------------
+City: Mumbai
+Temperature: 33.99°C
+Humidity: 24%
+Weather: smoke
+-----------------------------------
+City: Mumbai
+Temperature: 29.32°C
+Humidity: 53%
+Weather: overcast clouds
+-----------------------------------
+City: Mumbai
+Temperature: 29.32°C
+Humidity: 53%
+Weather: overcast clouds
+-----------------------------------

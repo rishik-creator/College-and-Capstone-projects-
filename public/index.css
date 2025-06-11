@@ -1,0 +1,111 @@
+body{
+    background:linear-gradient(green,aqua,yellow);
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:active
+{
+    color:darksalmon;
+}
+.topnav a:hover
+{
+    color:black;
+}
+.img-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.img-container img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.img-container a {
+  margin-top: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: navy;
+  font-size: 16px;
+}
+
+.img-container a:hover {
+  color: darkred;
+}
+.second-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 3.5rem;
+    margin-top: 25px;
+}
+
+.second-container img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.second-container p{
+    text-decoration: none;
+    font-weight: 100;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.second-container {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.car-section {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+  max-width: 1000px;
+}
+
+.car-section img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.car-section p {
+  max-width: 600px;
+  font-size: 16px;
+  color:black;
+  line-height: 1.5;
+}
+.car-section a{
+    color:blue;
+}
+.car-section a:hover{
+    color:white;
+}
+.center-list {
+  text-align: center;
+}
+
+.center-list ul {
+  display: inline-block;
+  text-align: left; /* optional: keeps list items aligned left inside the centered box */
+}
